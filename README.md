@@ -1,6 +1,9 @@
 # Image Classification using Fruits 360 Dataset
 
 This repository contains code for image classification using the Fruits 360 dataset. The goal is to classify different types of fruits using a convolutional neural network (CNN) implemented with TensorFlow and Keras.
+### Example image:
+
+![predicted](https://github.com/user-attachments/assets/73b05745-7e86-4550-aa22-f95571f8674b)
 
 ## Dataset
 
